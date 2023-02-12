@@ -1,0 +1,6 @@
+build
+dist
+*.pyo
+*.spec
+temp
+__pycache__
