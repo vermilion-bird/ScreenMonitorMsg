@@ -1,0 +1,12 @@
+pywin32
+# pywinauto
+qiniu
+Pillow
+apscheduler
+pyinstaller
+PyYAML
+wmi
+pydes
+# pycrypto
+# pycryptodome
+cryptography
