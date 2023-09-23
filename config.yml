@@ -1,8 +1,8 @@
 # 钉钉机器人配置
 dingding_robot:
   -
-    token:  '92562e13c1d0857b459ca932f989e5255cb7264092902aaa6f9997880b878db8'
-    secret: 'SEC6fa66b7cacf24b1ff84dc1c3a5b68a213a3fc24cefc3efa06549513b78cd2dda'
+    token:  '92562e13c1d0857b459ca932f989e92902aaa6f9997880b878db8'
+    secret: 'SEC6fa66b7cacf24b1ff843fc24cefc3efa06549513b78cd2dda'
 
 
 # 时间配置
