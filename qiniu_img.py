@@ -4,8 +4,8 @@ import qiniu
 import re
 
 #替换为自己的ak和sk
-access_key = "hk9Ua94zfqbMUiLi3eOXpjeM-tdpSmRqfN8HV2O_"
-secret_key = "OJUT7pzkOOskrYzEp22a4h7MqPpckU33gwaQRm7H"
+access_key = "hk9Ua94zfqbMUjeM-tdpSmRqfN8HV2O_"
+secret_key = "OJUT7pzkOOskrqPpckU33gwaQRm7H"
 #替换为自己的域名
 url = 'qn.top1.pub'
 #替换为自己的仓库名
